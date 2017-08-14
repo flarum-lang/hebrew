@@ -1,0 +1,82 @@
+validation:
+  accepted: "התכונה :attribute חייב לקבל אישור."
+  active_url: "התכונה :attribute אינה מכילה URL תקין."
+  after: "התכונה :attribute must be a date after :date."
+  after_or_equal: "התכונה :attribute חייבת להיות תאריך אחרי או שווה ל :date."
+  alpha: "התכונה :attribute צריכה להכיל רק אותיות."
+  alpha_dash: "התכונה :attribute יכולה להכיל אך ורק, מספרים ורווחים."
+  alpha_num: "התכונה :attribute יכולה להכיל אך ורק, אותיות ומספרים"
+  array: "התכונה :attribute חייבת להיות מערך."
+  before: "התכונה :attribute חייבת להיות תאריך לפני :date."
+  before_or_equal: "התכונה :attribute חייבת להיות תאריך לפני או שווה ל:date."
+  between:
+    numeric: "התכונה :attribute חייבת להיות :min ו:max."
+    file: "התכונה :attribute חייבת להיות בין :min ו-:max קילובייטים."
+    string: "התכונה :attribute חייבת להיות בין :min ו:max תווים."
+    array: "התכונה :attribute חייבת להיות בין :min ו-:max פריטים."
+  boolean: "שדה התכונה :attribute חייב להיות אמת או שקר."
+  confirmed: "The :attribute confirmation does not match."
+  date: "The :attribute is not a valid date."
+  date_format: "The :attribute does not match the format :other."
+  different: "התכונות :attribute ו- :other חייבות להיות שונות."
+  digits: "התכונה :attribute חייבת להכיל :digits ספרות."
+  digits_between: "התכונה :attribute חייבת להיות :min ו:max ספרות."
+  dimensions: "The :attribute has invalid image dimensions."
+  distinct: "The :attribute field has a duplicate value."
+  email: "התכונה :attribute חייבת להיות עם מייל אמיתי."
+  exists: "The selected :attribute is invalid."
+  file: "התכונה :attribute חייבת להיות קובץ."
+  filled: "The :attribute field must have a value."
+  image: "התכונה :attribute חייבת להיות תמונה."
+  in: "The selected :attribute is invalid."
+  in_array: "The :attribute field does not exist in :other."
+  integer: "התכונה :attribute חייבת להיות מספר"
+  ip: "התכונה :attribute חייבת להיות IP תקין."
+  ipv4: "The :attribute must be a valid IPv4 address."
+  ipv6: "The :attribute must be a valid IPv6 address."
+  json: "The :attribute must be a valid JSON string."
+  max:
+    numeric: "The :attribute may not be greater than :max."
+    file: "The :attribute may not be greater than :max kilobytes."
+    string: "The :attribute may not be greater than :max characters."
+    array: "The :attribute may not have more than :max items."
+  mimes: "The :attribute must be a file of type: :values."
+  mimetypes: "The :attribute must be a file of type: :values."
+  min:
+    numeric: "The :attribute must be at least :min."
+    file: "The :attribute must be at least :min kilobytes."
+    string: "The :attribute must be at least :min characters."
+    array: "The :attribute must have at least :min items."
+  not_in: "The selected :attribute is invalid."
+  numeric: "The :attribute must be a number."
+  present: "The :attribute field must be present."
+  regex: "The :attribute format is invalid."
+  required: "The :attribute field is required."
+  required_if: "The :attribute field is required when :other is :value."
+  required_unless: "The :attribute field is required unless :other is in :values."
+  required_with: "The :attribute field is required when :values is present."
+  required_with_all: "The :attribute field is required when :values is present."
+  required_without: "The :attribute field is required when :values is not present."
+  required_without_all: "The :attribute field is required when none of :values are present."
+  same: "The :attribute and :other must match."
+  size:
+    numeric: "The :attribute must be :size."
+    file: "The :attribute must be :size kilobytes."
+    string: "The :attribute must be :size characters."
+    array: "The :attribute must contain :size items."
+  string: "The :attribute must be a string."
+  timezone: "The :attribute must be a valid zone."
+  unique: "The :attribute has already been taken."
+  uploaded: "The :attribute failed to upload."
+  url: "The :attribute format is invalid."
+
+  attributes:
+    username: שם משתמש
+    password: סיסמה
+    email: דואר אלקטרוני
+    title: כותרת
+    content: תוכן
+    name_singular: שם יחיד
+    name_plural: שם ברבים
+    tag_count_primary: מספר תגיות ראשיות
+    tag_count_secondary: מספר תגיות משניות
