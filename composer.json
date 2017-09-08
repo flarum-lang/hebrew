@@ -1,7 +1,7 @@
 {
-    "name": "flarumeu/flarum-polski",
+    "name": "flarumeu/flarum-hebrew",
     "type": "flarum-extension",
-    "description": "Polska paczka jezykowa.",
+    "description": "תרגום רשמי לעברית.",
     "homepage": "https://github.com/flarumeu/flarum-polski",
     "keywords": ["locale"],
     "license": "MIT",
@@ -11,7 +11,7 @@
 	
     "extra": {
         "flarum-extension": {
-            "title": "Jezyk Polski",
+            "title": "השפה העברית",
             "icon": {
                 "image": "icon.png",
                 "backgroundColor": "#00247d",
@@ -20,8 +20,8 @@
             }
         },
         "flarum-locale": {
-            "code": "pl",
-            "title": "Polski"
+            "code": "he",
+            "title": "Hebrew"
 		}
     }
 }
