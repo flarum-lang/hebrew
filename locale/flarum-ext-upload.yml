@@ -67,14 +67,10 @@ flagrow-upload:
                 toggle: ביטול
             disable-download-logging:
                 title: ביטול תיעוד הורדות
-                toggle: ביטול
-<<<<<<< HEAD
-=======
-                
-            nav:
-                title: File Upload - העלאת קבצים
-                description: העלאת קבצים.
->>>>>>> a22e943eb6b436286869f75608c37eda0611a9f9
+                toggle: ביטול                
+        nav:
+            title: File Upload - העלאת קבצים
+            description: העלאת קבצים.
 
         buttons:
             save: שמירת הגדרות
