@@ -70,7 +70,7 @@ flagrow-upload:
                 toggle: ביטול
                 
             nav:
-                title: File Upload
+                title: File Upload - העלאת קבצים
                 description: העלאת קבצים.
 
         buttons:
