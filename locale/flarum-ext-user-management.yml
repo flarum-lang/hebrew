@@ -15,7 +15,7 @@ reflar-usermanagement:
         time: תאריך
         reason: סיבה
         link: קישור
-        remove: מחיקה
+        remove: הסרה
         title : "העבירות של {username}"
       settings_title: הגדרות
       email_switch: בטל את האפשרות להירשם באמצעות מייל
