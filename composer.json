@@ -1,12 +1,12 @@
 {
     "name": "flabrew/flarum-hebrew",
     "type": "flarum-extension",
-    "description": "תרגום רשמי לעברית.",
-    "homepage": "https://github.com/itayganor/flabrew",
+    "description": "תרגום Flarum רשמי לעברית.",
+    "homepage": "https://github.com/icecore2/Flarum-hebrew",
     "keywords": ["locale"],
     "license": "MIT",
     "require": {
-        "flarum/core": "^0.1.0-beta.7"
+        "flarum/core": "^1.0"
     },
 	
     "extra": {
@@ -23,5 +23,8 @@
             "code": "he",
             "title": "עברית"
 		}
+    },
+	"extiverse": {
+      "discuss": "https://discuss.flarum.org/d/6473"
     }
 }
