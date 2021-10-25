@@ -8,8 +8,6 @@
 
 |Translation of| Status|
 |--------------|-------|
-|**Core**| [![Translation status](https://weblate.rob006.net/widgets/flarum/en/core/svg-badge.svg)](https://weblate.rob006.net/engage/flarum/he/)|
-|**Overall**|[![Translation status](https://weblate.rob006.net/widgets/flarum/en/svg-badge.svg)](https://weblate.rob006.net/engage/flarum/he/)|
-
-
+|**Core**| [![Translation status](https://weblate.rob006.net/widgets/flarum/he/core/svg-badge.svg)](https://weblate.rob006.net/engage/flarum/he/)|
+|**Overall**|<a href="https://weblate.rob006.net/engage/flarum/he/"><img src="https://weblate.rob006.net/widgets/flarum/he/svg-badge.svg" alt="Translation status" /></a>|
 
