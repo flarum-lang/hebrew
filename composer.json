@@ -5,20 +5,34 @@
     "homepage": "https://github.com/icecore2/Flarum-hebrew",
     "keywords": ["locale"],
     "license": "MIT",
+	"keywords": [
+    "extension",
+    "flarum",
+    "russian",
+    "language",
+    "locale",
+    "localization",
+    "translation"
+	],
     "require": {
         "flarum/core": "^1.0"
-    },
-	
-    "extra": {
-        "flarum-extension": {
+    },	
+    "flarum-extension": {
             "title": "השפה העברית",
             "icon": {
                 "image": "icon.png",
                 "backgroundColor": "#00247d",
                 "backgroundSize": "cover",
                 "backgroundPosition": "center"
-            }
-        },
+    },
+	"authors": [
+    {
+      "name": "Dmitry Banny",
+      "email": "dbanny@duck.com",
+      "homepage": "https://github.com/icecore2",
+      "role": "Translator"
+    }
+  ],
         "flarum-locale": {
             "code": "he",
             "title": "עברית"
