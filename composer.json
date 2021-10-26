@@ -20,7 +20,8 @@
 	"extra": {
         "branch-alias": {
             "dev-master": "1.0.x-dev"
-        },
+		}
+    },
     "flarum-extension": {
             "title": "עברית",
             "category": "language",
