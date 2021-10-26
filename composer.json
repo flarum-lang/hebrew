@@ -1,28 +1,17 @@
 {
     "name": "flabrew/flabrew",
     "type": "flarum-extension",
-    "description": "תרגום Flarum רשמי לעברית.",
-    "homepage": "https://github.com/icecore2/Flarum-hebrew",
+    "description": "Hebrew language pack.",
     "keywords": ["locale"],
     "license": "MIT",
-	"keywords": [
-    "extension",
-    "flarum",
-    "russian",
-    "language",
-    "locale",
-    "localization",
-    "translation"
-	],
     "require": {
-        "flarum/core": "^1.0.0"
-    },	
-	"extra": {
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
-		}
+        "flarum/core": "^1.1"
     },
-    "flarum-extension": {
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.x-dev"
+        },
+        "flarum-extension": {
             "title": "עברית",
             "category": "language",
             "info": {
@@ -30,20 +19,16 @@
                 "website": "https://flarum.org",
                 "support": "https://discuss.flarum.org"
             },
-	"authors": [
-    {
-      "name": "Dmitry Banny",
-      "email": "dbanny@duck.com",
-      "homepage": "https://github.com/icecore2",
-      "role": "Translator"
-    }
-  ],
+            "icon": {
+                "image": "icon.svg",
+                "backgroundColor": "#00247d",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center"
+            }
+        },
         "flarum-locale": {
             "code": "he",
             "title": "עברית"
-		}
-    },
-	"extiverse": {
-      "discuss": "https://discuss.flarum.org/d/6473"
+        }
     }
 }
