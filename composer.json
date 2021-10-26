@@ -1,5 +1,5 @@
 {
-    "name": "flabrew/flarum-hebrew",
+    "name": "flabrew/flabrew",
     "type": "flarum-extension",
     "description": "תרגום Flarum רשמי לעברית.",
     "homepage": "https://github.com/icecore2/Flarum-hebrew",
@@ -15,16 +15,20 @@
     "translation"
 	],
     "require": {
-        "flarum/core": "^1.1"
+        "flarum/core": "^1.0.0"
     },	
+	"extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        },
     "flarum-extension": {
-            "title": "השפה העברית",
-            "icon": {
-                "image": "icon.png",
-                "backgroundColor": "#00247d",
-                "backgroundSize": "cover",
-                "backgroundPosition": "center"
-    },
+            "title": "עברית",
+            "category": "language",
+            "info": {
+                "donate": "https://flarum.org/donate/",
+                "website": "https://flarum.org",
+                "support": "https://discuss.flarum.org"
+            },
 	"authors": [
     {
       "name": "Dmitry Banny",
