@@ -4,7 +4,7 @@
 
 #### This is an official Hebrew language translation.
 
-**Supported Flarum version:** &uarr;1.0
+**Supported Flarum version:** &uarr;1.1
 
 |Translation of| Status|
 |--------------|-------|
