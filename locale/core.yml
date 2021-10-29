@@ -112,6 +112,10 @@ core:
       open_modal: 'פתיחת הגדרות'
       permissions_title: הרשאות
       purge_button: טיהור
+      readme:
+        button_label: README
+        no_readme: 'הרחבה זו אינה כוללת קובץ README'
+        title: 'מסמכי ההרחבה {extName}'
       uninstall_button: הסרה
     header:
       get_help: 'השגת עזרה'
