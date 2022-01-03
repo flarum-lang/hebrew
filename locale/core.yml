@@ -429,6 +429,8 @@ core:
     mod: אחראי
     mods: אחראיים
   lib:
+    alert:
+      dismiss_a11y_label: 'הסתרת התראה'
     badge:
       hidden_tooltip: מוסתר
     debug_button: Debug
@@ -458,6 +460,9 @@ core:
       render_failed_message: 'מצטערים, נתקלנו בשגיאה בהצגת תוכן. אם אתה משתמש, נסה שוב מאוחר יותר. אם אתה מנהל מערכת, עיין בקבצי יומן הרישום של Flarum לקבלת מידע נוסף.'
     loading_indicator:
       accessible_label: '=> core.ref.loading'
+    meta_titles:
+      with_page_title: '{pageNumber, plural, =1 {{pageTitle} - {forumName}} other {{pageTitle}: עמוד # - {forumName}}}'
+      without_page_title: '{pageNumber, plural, =1 {{forumName}} other {עמוד # - {forumName}}}'
     modal:
       close: סגירה
     nav:
