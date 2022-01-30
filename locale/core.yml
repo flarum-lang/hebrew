@@ -113,7 +113,7 @@ core:
       permissions_title: הרשאות
       purge_button: טיהור
       readme:
-        button_label: README
+        button_label: 'קרא אותי'
         no_readme: 'הרחבה זו אינה כוללת קובץ README'
         title: 'מסמכי ההרחבה {extName}'
       uninstall_button: הסרה
@@ -217,7 +217,7 @@ core:
         back_button: 'עמוד קודם'
         next_button: 'עמוד הבא'
         page_counter: 'עמוד {current} מתוך {total}'
-      title: ‌
+      title: '=> core.ref.users'
       total_users: 'סך הכל משתמשים: {count}'
   api:
     invalid_username_message: 'שם המשתמש יכול להכיל רק אותיות, מספרים ומקפים.'
@@ -292,9 +292,9 @@ core:
     forgot_password:
       dismiss_button: '=> core.ref.okay'
       email_placeholder: '=> core.ref.email'
-      email_sent_message: 'שלחנו לך מייל עם קישור לאיפוס הסיסמא. אם המייל לא הגיע בדקה-שתיים הקרובות, בדוק את תיקיית הספאם שלך.'
+      email_sent_message: 'מייל עם קישור לאיפוס הסיסמא נשלח. אם המייל לא הגיע בדקות הקרובות, בדקו את תיקיית הספאם.'
       not_found_message: 'אין משתמש תחת כתובת המייל הזו.'
-      submit_button: 'שחזור סיסמא.'
+      submit_button: 'שחזור סיסמא'
       text: 'הכנס את המייל שלך ונשלח לך קישור לאיפוס הסיסמא.'
       title: 'שכחתי סיסמא'
     header:
@@ -331,7 +331,7 @@ core:
       invalid_login_message: 'פרטי ההתחברות שלך שגויים.'
       password_placeholder: '=> core.ref.password'
       remember_me_label: 'זכור אותי'
-      sign_up_text: 'אין לך חשבון? <a>הירשם</a>'
+      sign_up_text: 'אין לכם חשבון? <a>הירשמו</a>'
       submit_button: '=> core.ref.log_in'
       title: '=> core.ref.log_in'
       username_or_email_placeholder: 'שם משתמש או כתובת מייל'
@@ -472,8 +472,8 @@ core:
       mega_text: M
     series:
       glue_text: ', '
-      three_text: '{first}, {second} ו{third}'
-      two_text: '{first} ו{second}'
+      three_text: '{first}, {second} ו-{third}'
+      two_text: '{first} ו-{second}'
     username:
       deleted_text: '[הוסר]'
   ref:
@@ -511,7 +511,7 @@ core:
     remove: הסרה
     rename: 'שינוי שם'
     reply: תגובה
-    reset_your_password: 'איפוס את סיסמתך'
+    reset_your_password: 'איפוס סיסמה'
     restore: שחזר
     save_changes: 'שמירת שינויים'
     settings: הגדרות
@@ -521,7 +521,7 @@ core:
     username: 'שם משתמש'
     users: משתמשים
     view: צפיה
-    write_a_reply: 'כתוב תגובה...'
+    write_a_reply: 'כתיבת תגובה...'
     you: את/ה
   views:
     admin:
