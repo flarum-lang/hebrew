@@ -8,6 +8,7 @@ askvortsov-categories:
       categories_label: קטגוריות
     headings:
       child_display: 'הצגת תת-קטגוריה'
+      layout: תבנית
       nav: ניווט
       parent_display: 'הצגת קטגוריה ראשית'
       performance: ביצועים
