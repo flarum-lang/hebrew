@@ -2,6 +2,38 @@ CHANGELOG
 =========
 
 
+2.0.0 (XXXX-XX-XX)
+------------------
+
+**General changes**:
+
+* Updated Day.js translations.
+* Removed outdated Flarum core translations (version `1.1` or higher is supported).
+
+
+**Updated and/or removed outdated translations for extensions**:
+
+* [`flarum/statistics`](https://github.com/flarum/statistics)
+
+
+**Removed support for outdated extensions**:
+
+* [`flarum/auth-facebook`](https://github.com/flarum/auth-facebook)
+* [`flarum/auth-github`](https://github.com/flarum/auth-github)
+* [`flarum/auth-twitter`](https://github.com/flarum/auth-twitter)
+* `flarum-ext-bazaar`
+* `flarum-ext-best-answer`
+* `flarum-ext-gamification`
+* `flarum-ext-links`
+* `flarum-ext-socialprofile`
+* `flarum-ext-upload`
+* `flarum-ext-user-management`
+
+
+
+All changes: [1.2.0...2.0.0](https://github.com/flarum-lang/hebrew/compare/1.2.0...2.0.0).
+
+
 1.2.0 (2022-08-29)
 ------------------
 
