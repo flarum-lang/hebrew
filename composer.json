@@ -1,7 +1,7 @@
 {
-    "name": "flabrew/flabrew",
+    "name": "flraum-lang/hebrew",
     "type": "flarum-extension",
-    "description": "Hebrew language pack.",
+    "description": "Hebrew language pack for Flarum.",
     "keywords": ["locale"],
     "license": "MIT",
     "require": {
@@ -20,7 +20,7 @@
                 "support": "https://discuss.flarum.org"
             },
             "icon": {
-                "image": "icon.png",
+                "image": "icon.svg",
                 "backgroundColor": "#00247d",
                 "backgroundSize": "cover",
                 "backgroundPosition": "center"
