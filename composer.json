@@ -1,5 +1,5 @@
 {
-    "name": "flraum-lang/hebrew",
+    "name": "flarum-lang/hebrew",
     "type": "flarum-extension",
     "description": "Hebrew language pack for Flarum.",
     "keywords": ["locale"],
