@@ -8,7 +8,7 @@ CHANGELOG
 **General changes**:
 
 * Updated Day.js translations.
-* Removed outdated Flarum core translations (version `1.1` or higher is supported).
+* Removed outdated Flarum core translations (version `1.3` or higher is supported).
 
 
 **Updated and/or removed outdated translations for extensions**:
