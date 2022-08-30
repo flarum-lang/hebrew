@@ -16,11 +16,13 @@ CHANGELOG
 * [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money)
 * [`archlinux-de/flarum-click-image`](https://github.com/archlinux-de/flarum-click-image)
 * [`askvortsov/flarum-auto-moderator`](https://github.com/askvortsov1/flarum-auto-moderator)
+* [`askvortsov/flarum-markdown-tables`](https://github.com/askvortsov1/flarum-markdown-tables)
 * [`flarum/markdown`](https://github.com/flarum/markdown)
 
 
 **Updated translations for extensions**:
 
+* [`flarum/akismet`](https://github.com/flarum/akismet)
 * [`flarum/mentions`](https://github.com/flarum/mentions)
 
 
