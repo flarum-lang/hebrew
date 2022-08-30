@@ -6,7 +6,11 @@ flarum-akismet:
   admin:
     akismet_settings:
       api_key_label: 'API Key'
+      delete_blatant_spam_help: 'אם Akismet מזהה הודעה כספאם בוטה, במקום סימון ההודעה, ההודעה תוסר אוטומטית'
+      delete_blatant_spam_label: 'הסרה אוטומטית של ספאם בוטה'
       title: 'הגדרות Akismet'
+    permissions:
+      bypass_akismet: 'עקיפת Akismet'
   forum:
     post:
       akismet_flagged_text: 'Akismet דווח כזבל'
