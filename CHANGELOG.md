@@ -17,6 +17,7 @@ CHANGELOG
 * [`archlinux-de/flarum-click-image`](https://github.com/archlinux-de/flarum-click-image)
 * [`askvortsov/flarum-auto-moderator`](https://github.com/askvortsov1/flarum-auto-moderator)
 * [`askvortsov/flarum-markdown-tables`](https://github.com/askvortsov1/flarum-markdown-tables)
+* [`datitisev/flarum-maintenance`](https://extiverse.com/extension/datitisev/flarum-maintenance)
 * [`flarum/markdown`](https://github.com/flarum/markdown)
 
 
