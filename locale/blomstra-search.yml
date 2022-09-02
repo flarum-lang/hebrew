@@ -4,6 +4,9 @@
 
 blomstra-search:
   admin:
+    analyzer:
+      help: "מנתח השפה מאפשר לחיפוש להבין מילות עצירה ומתחייב לשפה\nשיפורים ספציפיים לאינדקס.\n"
+      label: 'ניתוח שפה'
     elastic-endpoint: 'Elastic Endpoint'
     elastic-index: אינדקס
     elastic-password: '=> core.ref.password'
