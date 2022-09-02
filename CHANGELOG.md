@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+2.3.1 (2022-09-02)
+------------------
+
+**General changes**:
+
+* Updated validation translations.
+
+
+All changes: [2.3.0...2.3.1](https://github.com/flarum-lang/hebrew/compare/2.3.0...2.3.1).
+
+
 2.3.0 (2022-09-02)
 ------------------
 
