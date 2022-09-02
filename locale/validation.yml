@@ -45,6 +45,16 @@ validation:
   file_too_large: 'ה:attribute גדול מדי.'
   file_upload_failed: 'העלאת :attribute נכשלה.'
   filled: 'התכונה :attribute field must have a value.'
+  gt:
+    array: 'ה:attribute חייב להיות יותר מ:value פריטים.'
+    file: 'ה:attribute חייב להיות גבוה יותר מ:value קילובייטים.'
+    numeric: 'הערך של :attribute חייב להיות גבוה מ:value.'
+    string: 'ה:attribute חייב להיות יותר מ:value תווים.'
+  gte:
+    array: 'ה:attribute חייב להכיל :value פריטים או יותר.'
+    file: 'ה:attribute חייב להיות גבוה או שווה ל:value קילובייטים.'
+    numeric: 'ה:attribute חייב להיות שווה או גבוה מ:value.'
+    string: 'ה:attribute חייב להיות גבוה או שווה ל:valueה:attribute חייב להיות גבוה או שווה ל:value תווים.'
   image: 'התכונה :attribute חייבת להיות תמונה.'
   in: 'The selected :attribute is invalid.'
   in_array: 'התכונה :attribute field does not exist in :other.'
@@ -53,6 +63,14 @@ validation:
   ipv4: 'התכונה :attribute חייבת להכיל כתובת IPv4 תקינה.'
   ipv6: 'התכונה :attribute חייבת להכיל כתובת IPv6 תקינה.'
   json: 'התכונה :attribute חייבת להכיל כתובת JSON תקין.'
+  lt:
+    array: 'ה:attribute חייב להיות פחות מ:value פריטים.'
+    file: 'ה:attribute חייב להיות פחות מ:value קילובייטים.'
+    numeric: 'ה:attribute חייב להיות פחות מ:value.'
+    string: 'ה:attribute חייב להיות פחות מ:value תווים.'
+  lte:
+    file: 'ה:attribute חייב להיות פחות או שווה ל:value קילובייטים.'
+    numeric: 'ה:attribute חייב להיות פחות מאו שווה ל:value.'
   max:
     array: 'התכונה :attribute אינה יכולה להכיל יותר מ :max פריטים.'
     file: 'התכונה :attribute לא יכולה להיות גדולה מ :max קילובייט.'
