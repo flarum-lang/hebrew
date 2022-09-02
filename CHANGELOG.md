@@ -2,6 +2,31 @@ CHANGELOG
 =========
 
 
+2.3.0 (2022-09-02)
+------------------
+
+**General changes**:
+
+* Updated validation translations.
+
+
+**Added support for new extensions**:
+
+* [`blomstra/sort-order-toggle`](https://github.com/blomstra/flarum-ext-sort-order-toggle)
+* [`datlechin/flarum-copy-links`](https://github.com/datlechin/flarum-copy-links)
+* [`datlechin/flarum-discussion-overview`](https://github.com/datlechin/flarum-discussion-overview)
+
+
+**Updated translations for extensions**:
+
+* [`blomstra/search`](https://github.com/blomstra/flarum-ext-search)
+* [`flarum/suspend`](https://github.com/flarum/suspend)
+* [`zerosonesfun/expired-posts`](https://github.com/zerosonesfun/expired-posts)
+
+
+All changes: [2.2.0...2.3.0](https://github.com/flarum-lang/hebrew/compare/2.2.0...2.3.0).
+
+
 2.2.0 (2022-09-02)
 ------------------
 
