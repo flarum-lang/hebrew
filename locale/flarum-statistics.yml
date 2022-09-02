@@ -9,7 +9,12 @@ flarum-statistics:
       last_12_months_label: 'בשנה האחרונה'
       last_28_days_label: '28 ימים האחרונים'
       last_7_days_label: '7 ימים אחרונים'
+      loading: '=> core.ref.loading'
+      mini_heading: 'סטטיסטיקות פורום'
       posts_heading: '=> core.ref.posts'
+      previous_28_days_label: '28 ימים אחרונים'
+      previous_7_days_label: '7 ימים אחרונים'
       today_label: היום
       total_label: 'סך הכל'
       users_heading: '=> core.ref.users'
+      view_full: 'הצגת סטטיסטיקות נוספות'

@@ -9,7 +9,7 @@ fof-socialprofile:
       editOwn: 'עריכת פרופיל חברתי אישי'
       view: 'צפיה בפרופיל חברתי'
     settings:
-      allow_external_favicons_label: 'אפשר סמלים מאתרים חיצוניים'
+      allow_external_favicons_label: 'אפשר סמלים מאתרים חיצוניים (משתמש בDuckDuckGo favicon API)'
   forum:
     edit:
       add: 'הוספת כפתורי מדיה חברתית'
