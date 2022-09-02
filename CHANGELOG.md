@@ -2,6 +2,26 @@ CHANGELOG
 =========
 
 
+2.4.0 (XXXX-XX-XX)
+------------------
+
+**Added support for new extensions**:
+
+* [`clarkwinkelmann/flarum-ext-anonymous-posting`](https://github.com/clarkwinkelmann/flarum-ext-anonymous-posting)
+* [`clarkwinkelmann/flarum-ext-who-read`](https://github.com/clarkwinkelmann/flarum-ext-who-read)
+* [`datlechin/flarum-add-like-controls`](https://github.com/datlechin/flarum-add-like-controls)
+* [`swaggymacro/only-starter`](https://github.com/SwaggyMacro/OnlyStarter)
+* [`tohsakarat/tags-filter`](https://github.com/tohsakrat/flarum-tags-filter)
+
+
+**Updated translations for extensions**:
+
+* [`flarum/tags`](https://github.com/flarum/tags)
+
+
+All changes: [2.3.1...2.4.0](https://github.com/flarum-lang/hebrew/compare/2.3.1...2.4.0).
+
+
 2.3.1 (2022-09-02)
 ------------------
 
