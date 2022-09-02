@@ -2,6 +2,37 @@ CHANGELOG
 =========
 
 
+2.1.0 (XXXX-XX-XX)
+------------------
+
+**General changes**:
+
+* Updated Flarum core translations.
+
+
+**Added support for new extensions**:
+
+* [`afrux/asirem`](https://github.com/afrux/asirem)
+* [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money)
+* [`archlinux-de/flarum-click-image`](https://github.com/archlinux-de/flarum-click-image)
+* [`askvortsov/flarum-auto-moderator`](https://github.com/askvortsov1/flarum-auto-moderator)
+* [`askvortsov/flarum-markdown-tables`](https://github.com/askvortsov1/flarum-markdown-tables)
+* [`clarkwinkelmann/flarum-ext-post-bookmarks`](https://github.com/clarkwinkelmann/flarum-ext-post-bookmarks)
+* [`datitisev/flarum-maintenance`](https://extiverse.com/extension/datitisev/flarum-maintenance)
+* [`flarum/emoji`](https://github.com/flarum/emoji)
+* [`flarum/markdown`](https://github.com/flarum/markdown)
+
+
+**Updated translations for extensions**:
+
+* [`flarum/akismet`](https://github.com/flarum/akismet)
+* [`flarum/mentions`](https://github.com/flarum/mentions)
+* [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
+
+
+All changes: [2.0.1...2.1.0](https://github.com/flarum-lang/hebrew/compare/2.0.1...2.1.0).
+
+
 2.0.1 (2022-08-30)
 ------------------
 
