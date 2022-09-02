@@ -2,6 +2,41 @@ CHANGELOG
 =========
 
 
+2.2.0 (2022-09-02)
+------------------
+
+**General changes**:
+
+* Updated Flarum core translations.
+
+
+**Added support for new extensions**:
+
+* [`blomstra/search`](https://github.com/blomstra/flarum-ext-search)
+* [`clarkwinkelmann/flarum-ext-first-post-approval`](https://github.com/clarkwinkelmann/flarum-ext-first-post-approval)
+* [`datlechin/flarum-link-preview`](https://github.com/datlechin/flarum-link-preview)
+* [`fof/formatting`](https://github.com/FriendsOfFlarum/formatting)
+* [`fof/user-bio`](https://github.com/FriendsOfFlarum/user-bio)
+* [`jslirola/flarum-ext-login2seeplus`](https://github.com/jslirola/flarum-ext-login2seeplus)
+* [`justoverclock/flarum-ext-welcomebox`](https://github.com/justoverclockl/flarum-ext-welcomebox)
+* [`v17development/flarum-seo`](https://github.com/v17development/flarum-seo)
+
+
+**Updated translations for extensions**:
+
+* [`afrux/forum-widgets-core`](https://github.com/afrux/forum-widgets-core)
+* [`afrux/news-widget`](https://github.com/afrux/news-widget)
+* [`flarum/akismet`](https://github.com/flarum/akismet)
+* [`flarum/flags`](https://github.com/flarum/flags)
+* [`flarum/likes`](https://github.com/flarum/likes)
+* [`flarum/statistics`](https://github.com/flarum/statistics)
+* [`flarum/tags`](https://github.com/flarum/tags)
+* [`fof/socialprofile`](https://github.com/FriendsOfFlarum/socialprofile)
+
+
+All changes: [2.1.0...2.2.0](https://github.com/flarum-lang/hebrew/compare/2.1.0...2.2.0).
+
+
 2.1.0 (2022-09-02)
 ------------------
 
