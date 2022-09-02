@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+2.1.1 (XXXX-XX-XX)
+------------------
+
+**Updated translations for extensions**:
+
+* [`flarum/flags`](https://github.com/flarum/flags)
+
+
+All changes: [2.1.0...2.1.1](https://github.com/flarum-lang/hebrew/compare/2.1.0...2.1.1).
+
+
 2.1.0 (2022-09-02)
 ------------------
 
