@@ -4,9 +4,44 @@
 
 clarkwinkelmann-anonymous-posting:
   admin:
+    permissions:
+      moderate: 'אנונימי ואנטי-אנונימיות של נושאים והודעות'
+      reveal: 'צפיה במחברים האמיתיים של נושאים והודעות אנונימיות'
+      use: 'שליחה אנונימית'
     settings:
+      avatarAdd: 'הוספת תנאי אווטר'
+      avatarAvatarUrl: 'קישור אווטר'
+      avatarFieldKey: 'מפתח שדה'
+      avatarFieldValue: 'ערך שדה'
+      avatarFormId: 'מספר טופס'
       avatars: 'אווטרים אנונימיים'
+      avatarsHelp: "הרחבה זו דורשת הרחבת פרימיום <a>Formulaire extension</a>. השימוש בתכונה זו גורם להשפעה קטנה על הביצועים מכיוון שנדרשות בקשות נוספות למסד נתונים כדי לאחזר נושאים והודעות. ראה README לפרטים נוספים על הפורמט עבור כל קלט.\n"
       composerHelpTextPosition: 'מיקום טקסט עזרה למחבר'
       composerHelpTextPositionHidden: מוסתר
       composerHelpTextPositionTooltip: 'Tooltip (אחרי התווית)'
       composerHelpTextPositionVisible: 'נראה (מתחת לתווית)'
+  forum:
+    composerControls:
+      anonymize: 'שליחה בצורה אנונימית'
+      anonymizeHelp: 'הנהלת האתר עדיין תדע שיצרת את התוכן הזה'
+    discussionControls:
+      anonymize: 'להפוף לאנונימי'
+      anonymizeConfirmation: 'זה יגרום למחבר להיות אנונימי. ההודעה הראשונה צריכה להיות אנונימית בנפרד. להמשיך?'
+      deanonymize: 'להפוף ללא אנונימי'
+      deanonymizeConfirmation: 'זה יגרום למחבר המקורי של ההודעה להיות ציבורי שוב. להמשיך?'
+    discussionList:
+      genericReplyText: 'תגובה אחרונה לפני {ago}'
+    postControls:
+      anonymize: 'להפוף לאנונימי'
+      deanonymize: 'להפוף ללא אנונימי'
+      deanonymizeConfirmation: 'זה יגרום למחבר המקורי של ההודעה להיות ציבורי שוב. להמשיך?'
+      firstPostConfirmation: 'זה יגרום להודעה הראשונה בנושא להיות אנונימית. הנושא חייב להיות אנונימי בנפרד. להמשיך?'
+    postPrivacy:
+      mine: אני
+      mineHelp: 'רק האפשרותך לראות את המידע הזה'
+      profile: 'נראה רק לך'
+      profileHelp: 'רק באפשרותך לראות את ההודעות האנונימיות בפרופיל שלך'
+  lib:
+    userMeta:
+      initials: '?'
+      username: אנונימי
