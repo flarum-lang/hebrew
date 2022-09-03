@@ -2,6 +2,22 @@ CHANGELOG
 =========
 
 
+2.5.0 (2022-09-03)
+------------------
+
+**Added support for new extensions**:
+
+* [`clarkwinkelmann/flarum-ext-discussion-bookmarks`](https://github.com/clarkwinkelmann/flarum-ext-discussion-bookmarks)
+
+
+**Updated translations for extensions**:
+
+* [`clarkwinkelmann/flarum-ext-anonymous-posting`](https://github.com/clarkwinkelmann/flarum-ext-anonymous-posting)
+
+
+All changes: [2.4.0...2.5.0](https://github.com/flarum-lang/hebrew/compare/2.4.0...2.5.0).
+
+
 2.4.0 (2022-09-03)
 ------------------
 
