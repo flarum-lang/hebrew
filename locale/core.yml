@@ -7,6 +7,8 @@ core:
     appearance:
       colored_header_label: 'חלק עליון צבעוני'
       colors_heading: צבעים
+      colors_primary_label: 'צבע ראשי'
+      colors_secondary_label: 'צבע משני'
       colors_text: 'בחר שני צבעים שאיתם יצבע הפורום שלך. הראשון ישמש כצבע הדגשה, בעוד שהשני ישמש לצבוע אלמנטים ברקע.'
       custom_footer_heading: 'תחתית מתואמת אישית'
       custom_footer_text: '=> core.ref.custom_footer_text'
@@ -45,8 +47,12 @@ core:
     dashboard:
       clear_cache_button: 'ניקוי מטמון'
       description: 'הפורום במבט מהיר.'
+      io_error_message: 'אין אפשרות לכתוב קבצי מערכת. יש צורך בבדיקת הרשאות ולנסות שוב. או לנסות להריץ דרך שורת פקודה.'
       title: 'לוח מחוונים'
       tools_button: כלים
+    debug-warning:
+      detail: "כשמצב <code>debug</code> מופעל, Flarum יבנה מחדש את <code>JavaScript</code> ואת ה<code>CSS</code> לכל בקשה, וזה ככל הנראה יגרום לזליגת מידע אחר כגון, סודות של מסד הנתונים, משתני מערכת ועוד.\nמומלץ בחום לבטל את מצב ה<code>debug</code> בקובץ <code>config.php</code> כשהפורום ציבורי. ראו <link>Flarum docs</link> למידע נוסף.\n"
+      label: 'מצב debug מופעל'
     edit_css:
       customize_text: 'התאם אישית את מראה הפורום על ידי הוספת קוד CSS/LESS שיוכל לשנות את <a>עיצוב ברירת המחדל</a>.'
       submit_button: '=> core.ref.save_changes'
@@ -333,6 +339,8 @@ core:
       title: '=> core.ref.log_in'
       username_or_email_placeholder: 'שם משתמש או כתובת מייל'
     notifications:
+      delete_all_confirm: 'האם ברצונך להסיר את כל ההתראות? אין שחזור לפעולה זו'
+      delete_all_tooltip: 'הסרת כל ההתראות'
       discussion_renamed_text: '{username} שינה את הכותרת'
       empty_text: 'אין התראות'
       mark_all_as_read_tooltip: '=> core.ref.mark_all_as_read'
@@ -374,6 +382,7 @@ core:
       account_heading: חשבון
       change_email_button: '=> core.ref.change_email'
       change_password_button: '=> core.ref.change_password'
+      notification_checkbox_a11y_label_template: 'קבלת התראת "{description}" דרך {method}'
       notifications_heading: '=> core.ref.notifications'
       notify_by_email_heading: '=> core.ref.email'
       notify_by_web_heading: אתר
