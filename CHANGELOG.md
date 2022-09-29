@@ -2,6 +2,22 @@ CHANGELOG
 =========
 
 
+2.6.0 (XXXX-XX-XX)
+------------------
+
+**Added support for new extensions**:
+
+* [`annonny/flarum-dice`](https://github.com/mizhiyugan529/flarum-dice)
+
+
+**Updated translations for extensions**:
+
+* [`flarum/likes`](https://github.com/flarum/likes)
+
+
+All changes: [2.5.1...2.6.0](https://github.com/flarum-lang/hebrew/compare/2.5.1...2.6.0).
+
+
 2.5.1 (2022-09-15)
 ------------------
 
