@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+2.6.1 (XXXX-XX-XX)
+------------------
+
+**General changes**:
+
+* Updated Flarum core translations.
+
+
+All changes: [2.6.0...2.6.1](https://github.com/flarum-lang/hebrew/compare/2.6.0...2.6.1).
+
+
 2.6.0 (2022-09-29)
 ------------------
 
