@@ -126,7 +126,6 @@ php flarum cache:clear
 | [`swaggymacro/only-starter`](https://github.com/SwaggyMacro/OnlyStarter) | [![Translation status](https://weblate.rob006.net/widgets/flarum/he/swaggymacro-only-starter/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/swaggymacro-only-starter/he/) |
 | [`tohsakarat/tags-filter`](https://github.com/tohsakrat/flarum-tags-filter) | [![Translation status](https://weblate.rob006.net/widgets/flarum/he/tohsakarat-tags-filter/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/tohsakarat-tags-filter/he/) |
 | [`v17development/flarum-seo`](https://github.com/v17development/flarum-seo) | [![Translation status](https://weblate.rob006.net/widgets/flarum/he/v17development-seo/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/v17development-seo/he/) |
-| [`zerosonesfun/expired-posts`](https://github.com/zerosonesfun/expired-posts) | [![Translation status](https://weblate.rob006.net/widgets/flarum/he/zerosonesfun-expired-posts/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/zerosonesfun-expired-posts/he/) |
 
 <!-- various-extensions-list-stop -->
 
