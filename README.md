@@ -136,9 +136,9 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
-| [`blomstra/realtime`](https://extiverse.com/extension/blomstra/realtime) | [![Translation status](https://weblate.rob006.net/widgets/flarum/he/blomstra-realtime/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/blomstra-realtime/he/) |
-| [`datitisev/flarum-maintenance`](https://extiverse.com/extension/datitisev/flarum-maintenance) | [![Translation status](https://weblate.rob006.net/widgets/flarum/he/datitisev-maintenance/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/datitisev-maintenance/he/) |
-| [`kilowhat/flarum-ext-audit-pro`](https://extiverse.com/extension/kilowhat/flarum-ext-audit-pro) | [![Translation status](https://weblate.rob006.net/widgets/flarum/he/kilowhat-audit-pro/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/kilowhat-audit-pro/he/) |
+| [`blomstra/realtime`](https://flarum.org/extension/blomstra/realtime) | [![Translation status](https://weblate.rob006.net/widgets/flarum/he/blomstra-realtime/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/blomstra-realtime/he/) |
+| [`datitisev/flarum-maintenance`](https://flarum.org/extension/datitisev/flarum-maintenance) | [![Translation status](https://weblate.rob006.net/widgets/flarum/he/datitisev-maintenance/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/datitisev-maintenance/he/) |
+| [`kilowhat/flarum-ext-audit-pro`](https://flarum.org/extension/kilowhat/flarum-ext-audit-pro) | [![Translation status](https://weblate.rob006.net/widgets/flarum/he/kilowhat-audit-pro/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/kilowhat-audit-pro/he/) |
 
 <!-- premium-extensions-list-stop -->
 
