@@ -2,6 +2,22 @@ CHANGELOG
 =========
 
 
+2.7.0 (2025-05-03)
+------------------
+
+**Added support for new extensions**:
+
+* [`askvortsov/flarum-moderator-warnings`](https://github.com/askvortsov1/flarum-moderator-warnings)
+
+
+**Updated translations for extensions**:
+
+* [`flarum/likes`](https://github.com/flarum/likes)
+
+
+All changes: [2.6.3...2.7.0](https://github.com/flarum-lang/hebrew/compare/2.6.3...2.7.0).
+
+
 2.6.3 (2023-06-23)
 ------------------
 
