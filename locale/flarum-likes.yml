@@ -7,6 +7,7 @@ flarum-likes:
     permissions:
       like_posts_label: 'דירוג פוסטים'
     settings:
+      like_own_posts_help: "כאשר האפשרות מופעלת, ובהתאם להרשאות, משתמשים יכולים לסמן 'אהבתי' (like) לפוסטים של עצמם בפורום.\nכדי למנוע ממשתמשים לסמן 'אהבתי' על הפוסטים של עצמם, השבת את ההגדרה הזו."
       like_own_posts_label: 'משתמשים יכולים לסמן אהבתי על הודעות עצמיות'
   forum:
     notifications:
@@ -20,6 +21,7 @@ flarum-likes:
       unlike_link: 'לא אהבתי'
       you_text: '=> core.ref.you'
     post_likes:
+      load_more_button: 'טען עוד'
       title: 'משתמשים שאהבו את זה'
     settings:
       notify_post_liked_label: 'מישהו אהב את אחת ההודעות שלי'
