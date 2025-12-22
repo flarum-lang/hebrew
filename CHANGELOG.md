@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+2.7.1 (XXXX-XX-XX)
+------------------
+
+**Added support for new extensions**:
+
+* [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings)
+
+
+All changes: [2.7.0...2.7.1](https://github.com/flarum-lang/hebrew/compare/2.7.0...2.7.1).
+
+
 2.7.0 (2025-05-03)
 ------------------
 
