@@ -14,7 +14,7 @@ This language pack contains Hebrew translations for Flarum (compatible with `1.3
 You can install language pack using [Composer](https://getcomposer.org/):
 
 ```console
-composer require flarum-lang/hebrew
+composer require "flarum-lang/hebrew:*"
 ```
 
 Then enable extension in admin panel of your Flarum.
