@@ -124,7 +124,7 @@ php flarum cache:clear
 | [`justoverclock/flarum-ext-welcomebox`](https://github.com/justoverclockl/flarum-ext-welcomebox) | [![Translation status](https://weblate.rob006.net/widgets/flarum/he/justoverclock-welcomebox/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/justoverclock-welcomebox/he/) |
 | [`kilowhat/flarum-ext-audit-free`](https://github.com/kilowhat/flarum-ext-audit-free) | [![Translation status](https://weblate.rob006.net/widgets/flarum/he/kilowhat-audit-free/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/kilowhat-audit-free/he/) |
 | [`swaggymacro/only-starter`](https://github.com/SwaggyMacro/OnlyStarter) | [![Translation status](https://weblate.rob006.net/widgets/flarum/he/swaggymacro-only-starter/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/swaggymacro-only-starter/he/) |
-| [`v17development/flarum-seo`](https://github.com/v17development/flarum-seo) | [![Translation status](https://weblate.rob006.net/widgets/flarum/he/v17development-seo/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/v17development-seo/he/) |
+| [`v17development/flarum-seo`](https://github.com/FriendsOfFlarum/flarum-seo) | [![Translation status](https://weblate.rob006.net/widgets/flarum/he/v17development-seo/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/v17development-seo/he/) |
 
 <!-- various-extensions-list-stop -->
 
