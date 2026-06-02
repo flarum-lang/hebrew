@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+3.0.1 (2026-06-02)
+------------------
+
+**Added support for new extensions**:
+
+* [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money)
+
+
+All changes: [3.0.0...3.0.1](https://github.com/flarum-lang/hebrew/compare/3.0.0...3.0.1).
+
+
 3.0.0 (2026-04-18)
 ------------------
 
