@@ -114,7 +114,6 @@ php flarum cache:clear
 | [`datlechin/flarum-link-preview`](https://github.com/datlechin/flarum-link-preview) | [![Translation status](https://weblate.rob006.net/widgets/flarum/he/datlechin-link-preview/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/datlechin-link-preview/he/) |
 | [`jslirola/flarum-ext-login2seeplus`](https://github.com/jslirola/flarum-ext-login2seeplus) | [![Translation status](https://weblate.rob006.net/widgets/flarum/he/jslirola-login2seeplus/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/jslirola-login2seeplus/he/) |
 | [`justoverclock/flarum-ext-welcomebox`](https://github.com/justoverclockl/flarum-ext-welcomebox) | [![Translation status](https://weblate.rob006.net/widgets/flarum/he/justoverclock-welcomebox/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/justoverclock-welcomebox/he/) |
-| [`kilowhat/flarum-ext-audit-free`](https://github.com/kilowhat/flarum-ext-audit-free) | [![Translation status](https://weblate.rob006.net/widgets/flarum/he/kilowhat-audit-free/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/kilowhat-audit-free/he/) |
 | [`swaggymacro/only-starter`](https://github.com/SwaggyMacro/OnlyStarter) | [![Translation status](https://weblate.rob006.net/widgets/flarum/he/swaggymacro-only-starter/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/swaggymacro-only-starter/he/) |
 
 <!-- various-extensions-list-stop -->
