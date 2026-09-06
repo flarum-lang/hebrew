@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+3.0.2 (XXXX-XX-XX)
+------------------
+
+**Added support for new extensions**:
+
+* [`jslirola/flarum-ext-login2seeplus`](https://github.com/jslirola/flarum-ext-login2seeplus)
+
+
+All changes: [3.0.1...3.0.2](https://github.com/flarum-lang/hebrew/compare/3.0.1...3.0.2).
+
+
 3.0.1 (2026-06-02)
 ------------------
 
