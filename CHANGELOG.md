@@ -2,6 +2,18 @@ CHANGELOG
 =========
 
 
+2.7.2 (2026-09-19)
+------------------
+
+**Updated translations for extensions**:
+
+* [`flarum/pusher`](https://github.com/flarum/pusher)
+* [`flarum/tags`](https://github.com/flarum/tags)
+
+
+All changes: [2.7.1...2.7.2](https://github.com/flarum-lang/hebrew/compare/2.7.1...2.7.2).
+
+
 2.7.1 (2025-12-27)
 ------------------
 
