@@ -2,6 +2,18 @@ CHANGELOG
 =========
 
 
+3.0.3 (XXXX-XX-XX)
+------------------
+
+**Updated translations for extensions**:
+
+* [`flarum/pusher`](https://github.com/flarum/pusher)
+* [`flarum/tags`](https://github.com/flarum/tags)
+
+
+All changes: [3.0.2...3.0.3](https://github.com/flarum-lang/hebrew/compare/3.0.2...3.0.3).
+
+
 3.0.2 (2026-09-07)
 ------------------
 
