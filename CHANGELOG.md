@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+3.0.4 (XXXX-XX-XX)
+------------------
+
+**Added support for new extensions**:
+
+* [`clarkwinkelmann/flarum-ext-likes-received`](https://github.com/clarkwinkelmann/flarum-ext-likes-received) (100% complete)
+
+
+All changes: [3.0.3...3.0.4](https://github.com/flarum-lang/hebrew/compare/3.0.3...3.0.4).
+
+
 3.0.3 (2026-09-19)
 ------------------
 
