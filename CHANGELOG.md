@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+3.0.5 (XXXX-XX-XX)
+------------------
+
+**General changes**:
+
+* Updated Day.js translations.
+
+
+All changes: [3.0.4...3.0.5](https://github.com/flarum-lang/hebrew/compare/3.0.4...3.0.5).
+
+
 3.0.4 (2026-10-19)
 ------------------
 
