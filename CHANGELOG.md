@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+2.7.3 (2026-11-16)
+------------------
+
+**General changes**:
+
+* Updated Day.js translations.
+
+
+All changes: [2.7.2...2.7.3](https://github.com/flarum-lang/hebrew/compare/2.7.2...2.7.3).
+
+
 2.7.2 (2026-09-19)
 ------------------
 
