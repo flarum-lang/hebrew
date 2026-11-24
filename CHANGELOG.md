@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+3.0.6 (XXXX-XX-XX)
+------------------
+
+**Added support for new extensions**:
+
+* [`clarkwinkelmann/flarum-ext-who-read`](https://github.com/clarkwinkelmann/flarum-ext-who-read) (96% complete)
+
+
+All changes: [3.0.5...3.0.6](https://github.com/flarum-lang/hebrew/compare/3.0.5...3.0.6).
+
+
 3.0.5 (2026-11-16)
 ------------------
 
