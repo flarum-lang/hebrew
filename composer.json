@@ -1,34 +1,45 @@
 {
-    "name": "flarum-lang/hebrew",
-    "type": "flarum-extension",
-    "description": "Hebrew language pack for Flarum.",
-    "keywords": ["locale"],
-    "license": "MIT",
-    "require": {
-        "flarum/core": "^1.3"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.x-dev"
-        },
-        "flarum-extension": {
-            "title": "עברית",
-            "category": "language",
-            "info": {
-                "donate": "https://flarum.org/donate/",
-                "website": "https://flarum.org",
-                "support": "https://discuss.flarum.org"
-            },
-            "icon": {
-                "image": "icon.svg",
-                "backgroundColor": "#00247d",
-                "backgroundSize": "cover",
-                "backgroundPosition": "center"
-            }
-        },
-        "flarum-locale": {
-            "code": "he",
-            "title": "עברית"
-        }
-    }
+	"name": "flarum-lang/hebrew",
+	"description": "Hebrew Language Pack for Flarum",
+	"type": "flarum-extension",
+	"keywords": [
+		"flarum-locale"
+	],
+	"homepage": "https://github.com/flarum-lang/hebrew",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "icecore2",
+			"homepage": "https://github.com/icecore2",
+			"role": "Maintainer"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/flarum-lang/hebrew/issues",
+		"forum": "https://discuss.flarum.org/d/6473",
+		"source": "https://github.com/flarum-lang/hebrew"
+	},
+	"require": {
+		"flarum/core": "^1.3"
+	},
+	"extra": {
+		"branch-alias": {
+			"dev-master": "2.x-dev"
+		},
+		"flarum-extension": {
+			"title": "Hebrew",
+			"category": "language",
+			"icon": {
+				"image": "icon.svg",
+				"backgroundColor": "#00247d",
+				"backgroundSize": "cover",
+				"backgroundPosition": "center"
+			}
+		},
+		"flarum-locale": {
+			"code": "he",
+			"title": "עברית",
+			"direction": "rtl"
+		}
+	}
 }
